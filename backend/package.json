@@ -1,16 +1,12 @@
 {
-  "name": "historia-comentarios",
+  "name": "backend",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js" // Este comando deve estar correto
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "sqlite3": "^5.0.2",
-    "ws": "^8.0.0"
-  },
-  "keywords": [],
-  "author": "Mateus",
-  "license": "MIT"
+    "express": "^4.17.1", // exemplo, adicione suas dependências aqui
+    "sqlite3": "^5.0.2"   // exemplo, adicione suas dependências aqui
+  }
 }
