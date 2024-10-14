@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js" // Este comando deve estar correto
+    "start": "node server.js" 
   },
   "dependencies": {
-    "express": "^4.17.1", // exemplo, adicione suas dependências aqui
-    "sqlite3": "^5.0.2"   // exemplo, adicione suas dependências aqui
-  }
+    "express": "^4.17.1", 
+    "sqlite3": "^5.0.2"   
+  
 }
